@@ -107,6 +107,7 @@ public class BasicOperations {
                     A[i] = A[++i];
                 }
                 System.out.println(num + " deleted");
+                break;
             }
         }
         if (flag == 0) {
